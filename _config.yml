@@ -106,9 +106,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _blenderAddons
   - scope:
-      path: ""
+      path: "_blenderAddons"
       type: portfolio
     values:
       layout: single
@@ -116,7 +116,7 @@ defaults:
       share: true
 
 collections:
-  portfolio:
+  blenderAddons:
     output: true
     permalink: /:collection/:path
 
