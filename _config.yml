@@ -108,7 +108,7 @@ defaults:
       author_profile: true
   # _blender_addons
   - scope:
-      path: "_blender_addons"
+      path: ""
       type: blender_addons
     values:
       layout: single
