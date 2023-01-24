@@ -1,7 +1,7 @@
 ---
 title: Blender Addons
 layout: collection
-permalink: /portfolio/blenderAddons/
+permalink: /portfolio/BlenderAddons/
 collection: blenderAddons
 entries_layout: grid
 classes: wide
