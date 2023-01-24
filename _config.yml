@@ -114,7 +114,6 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
   # _portfolio/BlenderAddons
   - scope:
       path: "BlenderAddons"
@@ -125,7 +124,7 @@ defaults:
       share: true
 
 collections:
-  blenderAddons:
+  BlenderAddons:
     output: true
     permalink: /:collection/:path
 
