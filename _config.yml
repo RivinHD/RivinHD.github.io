@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: Bananenbrot
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Bananenbrot"
+  avatar : #"/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
@@ -106,6 +106,19 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path
 
 category_archive:
   type: liquid
