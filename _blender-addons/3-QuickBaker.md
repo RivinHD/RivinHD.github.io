@@ -2,6 +2,12 @@
 title: Quick Baker
 excerpt: "Quick Baker allows you to easily bake your maps.[Contributing]"
 number: 3
+categories:
+  - Blender Addon
+tags:
+  - Blender
+  - Blender Addon
+  - Python
 header:
   teaser: /assets/images/Quick%20Baker.png
 ---

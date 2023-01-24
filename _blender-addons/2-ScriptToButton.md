@@ -2,6 +2,12 @@
 title: Script To Buttons
 excerpt: "Script To Button gives you the possibility to convert your Blender scripts into a button."
 number: 2
+categories:
+  - Blender Addon
+tags:
+  - Blender
+  - Blender Addon
+  - Python
 header:
   teaser: /assets/images/ScriptToButton.png
 ---

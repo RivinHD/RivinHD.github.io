@@ -2,6 +2,12 @@
 title: Action Recorder
 excerpt: "Action Recorder converts complex, repetitive tasks into one click!"
 number: 1
+categories:
+  - Blender Addon
+tags:
+  - Blender
+  - Blender Addon
+  - Python
 header:
   teaser: /assets/images/ActRec.png
 ---
