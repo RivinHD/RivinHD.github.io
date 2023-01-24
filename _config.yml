@@ -106,17 +106,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _blender_addons
+  # _blender-addons
   - scope:
       path: ""
-      type: blender_addons
+      type: blender-addons
     values:
       layout: single
       author_profile: false
       share: true
 
 collections:
-  blender_addons:
+  blender-addons:
     output: true
     permalink: /:collection/:path
 

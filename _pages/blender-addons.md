@@ -2,7 +2,7 @@
 title: Blender Addons
 layout: collection
 permalink: /blender-addons/
-collection: blender_addons
+collection: blender-addons
 entries_layout: grid
 classes: wide
 ---
