@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Quick Baker
 excerpt: "Quick Baker allows you to easily bake your maps.[Contributing]"
 header:

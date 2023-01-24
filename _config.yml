@@ -116,7 +116,7 @@ defaults:
       share: true
   # _blenderAddons
   - scope:
-      path: "_blenderAddons"
+      path: "BlenderAddons"
       type: portfolio
     values:
       layout: single

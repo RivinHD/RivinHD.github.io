@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Action Recorder
 excerpt: "Action Recorder converts complex, repetitive tasks into one click!"
 header:
