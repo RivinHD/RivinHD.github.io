@@ -106,25 +106,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-  #_portfolio
+  # _blender_addons
   - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _portfolio/BlenderAddons
-  - scope:
-      path: "BlenderAddons"
-      type: portfolio
+      path: "_blender_addons"
+      type: blender_addons
     values:
       layout: single
       author_profile: false
       share: true
 
 collections:
-  BlenderAddons:
+  blender_addons:
     output: true
     permalink: /:collection/:path
 
