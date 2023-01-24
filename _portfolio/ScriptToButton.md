@@ -2,7 +2,7 @@
 title: Script To Buttons
 ---
 
-[![Script To Buttons](images/ScriptToButton.png)](https://github.com/RivinHD/ScriptToButton)
+[![Script To Buttons](/assets/images/ScriptToButton.png)](https://github.com/RivinHD/ScriptToButton)
 
 [Documentation](https://github.com/RivinHD/ScriptToButton/wiki)
 

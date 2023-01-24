@@ -2,7 +2,7 @@
 title: Blender Addons
 layout: collection
 permalink: /BlenderAddons/
-collection: Blender-Addons
+collection: portfolio
 entries_layout: grid
 classes: wide
 ---

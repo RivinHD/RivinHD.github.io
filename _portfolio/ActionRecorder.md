@@ -2,7 +2,7 @@
 title: Action Recorder
 ---
 
-[![Action Recorder](images/ActRec.png)](https://github.com/InamuraJIN/ActionRecorder)
+[![Action Recorder](/assets/images/ActRec.png)](https://github.com/InamuraJIN/ActionRecorder)
 
 ## [Preview](https://youtu.be/OA0vjP7D4Ec)
 
