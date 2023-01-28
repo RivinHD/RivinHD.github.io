@@ -1,11 +1,11 @@
 main:
+  - title: "Blender Addons"
+    url: /blender-addons/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Blender Addons"
-    url: /blender-addons/
   - title: "About"
     url: /about/
